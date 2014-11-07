@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:drawable="@drawable/d100_10" android:duration="50" />
+    <item android:drawable="@drawable/d100_20" android:duration="50" />
+    <item android:drawable="@drawable/d100_30" android:duration="50" />
+	<item android:drawable="@drawable/d100_40" android:duration="50" />
+    <item android:drawable="@drawable/d100_50" android:duration="50" />
+    <item android:drawable="@drawable/d100_60" android:duration="50" />
+	<item android:drawable="@drawable/d100_70" android:duration="50" />
+    <item android:drawable="@drawable/d100_80" android:duration="50" />
+	<item android:drawable="@drawable/d100_90" android:duration="50" />
+    <item android:drawable="@drawable/d100_00" android:duration="50" />
+
+</animation-list>
